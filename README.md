@@ -1,0 +1,5 @@
+- 👋 Hi, I’m John from Germany
+- 👀 I’m interested in Webdevelopment, PHP, Laravel, TailwindCSS, AlpineJS and Livewire and gardening
+- 🌱 I’m currently learning Laravel Statamic Development, Laravel in General
+- 💞️ I’m not looking to collaborate on anything at the moment.
+- 📫 You can reach me per DM on GH or on Discord: Cainy#5106
