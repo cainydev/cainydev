@@ -2,7 +2,7 @@
 👀 &nbsp;I’m interested in Webdevelopment, PHP, Laravel, TailwindCSS, AlpineJS and Livewire and gardening<br>
 🌱 &nbsp;I’m always trying to learn new languages, paradigms and concepts<br>
 💞️ &nbsp;If you have a fun idea for an collaboration, hit me up!<br>
-📫 &nbsp;You can reach me per DM on Github or on Discord: `cainybtw`<br>
+📫 &nbsp;You can reach me on Discord: `cainybtw`<br>
 
 ### Languages
 | Skill/Language | Progress | Notes |
