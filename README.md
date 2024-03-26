@@ -1,8 +1,8 @@
-- 👋 Hi, I’m John from Germany
-- 👀 I’m interested in Webdevelopment, PHP, Laravel, TailwindCSS, AlpineJS and Livewire and gardening
-- 🌱 I’m always trying to learn new languages, paradigms and concepts
-- 💞️ If you have a fun idea for an collaboration, hit me up!
-- 📫 You can reach me per DM on Github or on Discord: cainybtw
+👋 &nbsp;**Hi, I’m John from Germany**<br>
+👀 &nbsp;I’m interested in Webdevelopment, PHP, Laravel, TailwindCSS, AlpineJS and Livewire and gardening<br>
+🌱 &nbsp;I’m always trying to learn new languages, paradigms and concepts<br>
+💞️ &nbsp;If you have a fun idea for an collaboration, hit me up!<br>
+📫 &nbsp;You can reach me per DM on Github or on Discord: `cainybtw`<br>
 
 ### Languages
 | Skill/Language | Progress | Notes |
@@ -19,3 +19,4 @@
 | ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) | ![](https://geps.dev/progress/15) | Only borrow checker in the list |
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![](https://geps.dev/progress/10) | Nice packages there |
 | ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) | ![](https://geps.dev/progress/8) | I'm just lost, but sexy pipes | 
+> Always remember the [Dunning-Kruger-Effect](https://de.wikipedia.org/wiki/Dunning-Kruger-Effekt)! 
