@@ -4,6 +4,9 @@
 💞️ &nbsp;If you have a fun idea for an collaboration, hit me up!<br>
 📫 &nbsp;You can reach me on Discord: `cainybtw`<br>
 
+### Codewars
+[![Codewars](https://www.codewars.com/users/cainytheslave/badges/large)](https://www.codewars.com/users/cainytheslave/)
+
 ### Languages
 | Skill/Language | Progress | Admired | Notes |
 |----------------|----------|---------|-------|
