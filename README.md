@@ -5,7 +5,7 @@
 📫 &nbsp;You can reach me on Discord: `cainybtw`<br>
 
 ### Codewars
-[![Codewars](https://www.codewars.com/users/cainytheslave/badges/large)](https://www.codewars.com/users/cainytheslave/)
+[![Codewars](https://www.codewars.com/users/cainydev/badges/large)](https://www.codewars.com/users/cainydev/)
 
 ### Languages
 | Skill/Language | Progress | Admired | Notes |
