@@ -2,7 +2,7 @@
 👀 &nbsp;I’m interested in Webdevelopment, PHP, Laravel, TailwindCSS, AlpineJS and Livewire and gardening<br>
 🌱 &nbsp;I’m always trying to learn new languages, paradigms and concepts<br>
 💞️ &nbsp;If you have a fun idea for an collaboration, hit me up!<br>
-📫 &nbsp;You can reach me on Discord: `cainybtw`<br>
+📫 &nbsp;You can reach me on Discord: [`cainybtw`](https://discord.com/users/367649485423116291)<br>
 
 ### Codewars
 [![Codewars](https://www.codewars.com/users/cainydev/badges/large)](https://www.codewars.com/users/cainydev/)
