@@ -13,6 +13,7 @@
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![](https://geps.dev/progress/90) | ![](https://geps.dev/progress/5) | Forced on me, i swear! |
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![](https://geps.dev/progress/85) | ![](https://geps.dev/progress/60) | Tags are semantic now? Always have been. |
 | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ![](https://geps.dev/progress/75) | ![](https://geps.dev/progress/60) | Love the meta-programming |
+| ![OCaml](https://img.shields.io/badge/Ocaml-c24f1e?style=for-the-badge&logo=ocaml&logoColor=white) | ![](https://geps.dev/progress/70) | ![](https://geps.dev/progress/90) | Quite functional language |
 | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![](https://geps.dev/progress/70) | ![](https://geps.dev/progress/15) | So stuffed yet so vast |
 | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![](https://geps.dev/progress/70) | ![](https://geps.dev/progress/40) | But I'd always prefer the ORM |
 | ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) | ![](https://geps.dev/progress/45) | ![](https://geps.dev/progress/95) | Rest of code seems so dirty now | 
