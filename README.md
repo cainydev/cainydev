@@ -1,6 +1,6 @@
 ▸ &nbsp;**John Wagner — software engineer in Aachen, Germany**<br>
 ▸ &nbsp;Day job: shipping production web apps in the Laravel ecosystem (PHP, Livewire, Tailwind)<br>
-▸ &nbsp;Side focus: agent infrastructure, OCI tooling, and a Bachelor's thesis on agentic container vulnerability scanning<br>
+▸ &nbsp;Side focus: agent infrastructure, OCI tooling, and a Bachelor's thesis on turning Laravel MVC into an agent-first interface<br>
 ▸ &nbsp;Comfortable across functional, systems and web stacks — happiest in OCaml, TypeScript and PHP<br>
 ▸ &nbsp;Open to interesting collaborations · reach me on Discord: [`cainybtw`](https://discord.com/users/367649485423116291)<br>
 
