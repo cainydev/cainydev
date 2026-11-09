@@ -5,7 +5,7 @@
 ▸ &nbsp;Open to interesting collaborations · reach me on Discord: [`cainybtw`](https://discord.com/users/367649485423116291)<br>
 
 ### Quote of the day
-> Keep your software acyclic, like people that don't ride a bike.
+> Keep your dependency graphs acyclic, like people that don't ride a bike.
 
 ### Codewars
 [![Codewars](https://www.codewars.com/users/cainydev/badges/large)](https://www.codewars.com/users/cainydev/)
